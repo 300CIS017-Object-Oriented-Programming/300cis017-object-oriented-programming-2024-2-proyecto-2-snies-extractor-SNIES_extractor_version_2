@@ -10,6 +10,7 @@
 #include <algorithm>
 #include "ProgramaAcademico.h"
 #include "Consolidado.h"
+#include "GestorArchivos.h"
 
 using namespace std;
 
